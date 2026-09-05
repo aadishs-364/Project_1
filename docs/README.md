@@ -84,7 +84,7 @@ erDiagram
 ```
 
 Three design decisions worth calling out, all explained in full in
-[`docs/data_model.md`](docs/data_model.md):
+[`docs/data_model.md`](https://github.com/aadishs-364/Project_1/blob/main/docs/data_model.md):
 
 - **`orders.total_amount` is denormalised on purpose.** It is what the customer
   was actually charged and must survive a later catalogue re-price. The
@@ -122,7 +122,7 @@ sell, so the anti-join reports have something to find.
 
 ## Selected findings
 
-Full write-up in [`docs/insights_report.md`](docs/insights_report.md).
+Full write-up in [`docs/insights_report.md`](https://github.com/aadishs-364/Project_1/blob/main/docs/insights_report.md).
 
 - **Volume is growing but the average order is shrinking.** Like-for-like
   January-August, orders are up 47.6% over two years while revenue is up only
