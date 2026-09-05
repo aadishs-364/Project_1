@@ -1,0 +1,16 @@
+product_name,category,units_sold,orders,distinct_buyers,revenue,gross_profit,gross_margin_pct,avg_discount_pct,last_sold_on
+Aurora 27in 4K Monitor,Electronics,54.0,29,23,1492216.05,331216.05,22.2,4.1,2026-08-08
+Nimbus Wireless Earbuds Pro,Electronics,145.0,96,49,890119.32,368119.32,41.4,4.8,2026-07-28
+Zenith Smart Watch S3,Electronics,69.0,47,32,779425.06,282625.06,36.3,4.6,2026-08-09
+Aurora 24in FHD Monitor,Electronics,58.0,37,29,745313.55,171113.55,23.0,4.5,2026-08-02
+Trailhead Running Shoes,Fashion,125.0,92,52,475291.16,237791.16,50.0,4.9,2026-08-11
+Nimbus Wireless Earbuds Lite,Electronics,164.0,113,60,356379.56,167779.56,47.1,5.8,2026-08-16
+IronCore Adjustable Dumbbell 20kg,Sports & Fitness,47.0,32,27,313257.75,115857.75,37.0,4.5,2026-07-28
+Zenith Fitness Band 2,Electronics,98.0,62,43,307582.28,140982.28,45.8,4.7,2026-08-03
+BrewCraft Coffee Maker,Home & Kitchen,58.0,38,25,299503.06,113903.06,38.0,5.4,2026-08-18
+Orbit Bluetooth Speaker,Electronics,65.0,45,32,279534.13,123534.13,44.2,4.7,2026-08-07
+CopperLine Pressure Cooker 5L,Home & Kitchen,96.0,64,38,268258.98,109858.98,41.0,4.1,2026-07-12
+Helios 65W GaN Charger,Electronics,123.0,90,48,258497.98,129347.98,50.0,4.2,2026-08-10
+Orbit Soundbar 120W,Electronics,25.0,17,15,242525.75,85025.75,35.1,4.4,2026-07-28
+Vertex Wireless Mouse,Electronics,155.0,102,53,236200.3,115300.3,48.8,4.6,2026-07-28
+Helios 20000mAh Power Bank,Electronics,87.0,58,39,232324.02,101824.02,43.8,4.5,2026-08-09

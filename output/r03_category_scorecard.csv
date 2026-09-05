@@ -1,0 +1,7 @@
+category,products,products_with_sales,units_sold,revenue,gross_profit,gross_margin_pct,revenue_share_pct
+Electronics,12,11,1043.0,5820118.0,2016868.0,34.7,56.0
+Fashion,8,8,791.0,1701233.35,907793.35,53.4,16.4
+Home & Kitchen,8,6,454.0,1194823.56,505303.56,42.3,11.5
+Sports & Fitness,6,6,520.0,887104.34,436954.34,49.3,8.5
+Beauty & Personal Care,4,4,384.0,520777.9,288667.9,55.4,5.0
+Books & Stationery,5,5,481.0,270886.31,164206.31,60.6,2.6

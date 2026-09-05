@@ -1,0 +1,228 @@
+
+=== 01_schema.sql  (16 statements) ===
+  [ok] 01_schema.sql#1                           DROP VIEW
+  [ok] 01_schema.sql#2                           DROP VIEW
+  [ok] 01_schema.sql#3                           DROP VIEW
+  [ok] 01_schema.sql#4                           DROP VIEW
+  [ok] 01_schema.sql#5                           DROP VIEW
+  [ok] 01_schema.sql#6                           DROP VIEW
+  [ok] 01_schema.sql#7                           DROP TABLE
+  [ok] 01_schema.sql#8                           DROP TABLE
+  [ok] 01_schema.sql#9                           DROP TABLE
+  [ok] 01_schema.sql#10                          DROP TABLE
+  [ok] 01_schema.sql#11                          DROP TABLE
+  [ok] 01_schema.sql#12                          CREATE TABLE
+  [ok] 01_schema.sql#13                          CREATE TABLE
+  [ok] 01_schema.sql#14                          CREATE TABLE
+  [ok] 01_schema.sql#15                          CREATE TABLE
+  [ok] 01_schema.sql#16                          CREATE TABLE
+  -- 01_schema.sql finished in 0.01s
+
+=== 02_seed_data.sql  (64 statements) ===
+  [ok] 02_seed_data.sql#1                           INSERT INTO
+  [ok] 02_seed_data.sql#2                           INSERT INTO
+  [ok] 02_seed_data.sql#3                           INSERT INTO
+  [ok] 02_seed_data.sql#4                           INSERT INTO
+  [ok] 02_seed_data.sql#5                           INSERT INTO
+  [ok] 02_seed_data.sql#6                           INSERT INTO
+  [ok] 02_seed_data.sql#7                           INSERT INTO
+  [ok] 02_seed_data.sql#8                           INSERT INTO
+  [ok] 02_seed_data.sql#9                           INSERT INTO
+  [ok] 02_seed_data.sql#10                          INSERT INTO
+  [ok] 02_seed_data.sql#11                          INSERT INTO
+  [ok] 02_seed_data.sql#12                          INSERT INTO
+  [ok] 02_seed_data.sql#13                          INSERT INTO
+  [ok] 02_seed_data.sql#14                          INSERT INTO
+  [ok] 02_seed_data.sql#15                          INSERT INTO
+  [ok] 02_seed_data.sql#16                          INSERT INTO
+  [ok] 02_seed_data.sql#17                          INSERT INTO
+  [ok] 02_seed_data.sql#18                          INSERT INTO
+  [ok] 02_seed_data.sql#19                          INSERT INTO
+  [ok] 02_seed_data.sql#20                          INSERT INTO
+  [ok] 02_seed_data.sql#21                          INSERT INTO
+  [ok] 02_seed_data.sql#22                          INSERT INTO
+  [ok] 02_seed_data.sql#23                          INSERT INTO
+  [ok] 02_seed_data.sql#24                          INSERT INTO
+  [ok] 02_seed_data.sql#25                          INSERT INTO
+  [ok] 02_seed_data.sql#26                          INSERT INTO
+  [ok] 02_seed_data.sql#27                          INSERT INTO
+  [ok] 02_seed_data.sql#28                          INSERT INTO
+  [ok] 02_seed_data.sql#29                          INSERT INTO
+  [ok] 02_seed_data.sql#30                          INSERT INTO
+  [ok] 02_seed_data.sql#31                          INSERT INTO
+  [ok] 02_seed_data.sql#32                          INSERT INTO
+  [ok] 02_seed_data.sql#33                          INSERT INTO
+  [ok] 02_seed_data.sql#34                          INSERT INTO
+  [ok] 02_seed_data.sql#35                          INSERT INTO
+  [ok] 02_seed_data.sql#36                          INSERT INTO
+  [ok] 02_seed_data.sql#37                          INSERT INTO
+  [ok] 02_seed_data.sql#38                          INSERT INTO
+  [ok] 02_seed_data.sql#39                          INSERT INTO
+  [ok] 02_seed_data.sql#40                          INSERT INTO
+  [ok] 02_seed_data.sql#41                          INSERT INTO
+  [ok] 02_seed_data.sql#42                          INSERT INTO
+  [ok] 02_seed_data.sql#43                          INSERT INTO
+  [ok] 02_seed_data.sql#44                          INSERT INTO
+  [ok] 02_seed_data.sql#45                          INSERT INTO
+  [ok] 02_seed_data.sql#46                          INSERT INTO
+  [ok] 02_seed_data.sql#47                          INSERT INTO
+  [ok] 02_seed_data.sql#48                          INSERT INTO
+  [ok] 02_seed_data.sql#49                          INSERT INTO
+  [ok] 02_seed_data.sql#50                          INSERT INTO
+  [ok] 02_seed_data.sql#51                          INSERT INTO
+  [ok] 02_seed_data.sql#52                          INSERT INTO
+  [ok] 02_seed_data.sql#53                          INSERT INTO
+  [ok] 02_seed_data.sql#54                          INSERT INTO
+  [ok] 02_seed_data.sql#55                          INSERT INTO
+  [ok] 02_seed_data.sql#56                          INSERT INTO
+  [ok] 02_seed_data.sql#57                          INSERT INTO
+  [ok] 02_seed_data.sql#58                          INSERT INTO
+  [ok] 02_seed_data.sql#59                          INSERT INTO
+  [ok] 02_seed_data.sql#60                          INSERT INTO
+  [ok] 02_seed_data.sql#61                          INSERT INTO
+  [ok] 02_seed_data.sql#62                          INSERT INTO
+  [ok] 02_seed_data.sql#63                          INSERT INTO
+  [ok] 02_seed_data.sql#64                          INSERT INTO
+  -- 02_seed_data.sql finished in 0.57s
+
+=== 03_crud_operations.sql  (31 statements) ===
+  [ok] 03_crud_operations.sql#1                           BEGIN 
+  [ok] 03_crud_operations.sql#2                           INSERT INTO
+  [ok] 03_crud_operations.sql#3                           INSERT INTO
+  [ok] 03_crud_operations.sql#4                           INSERT INTO
+  [ok] 03_crud_operations.sql#5                           UPDATE orders
+  [ok] 03_crud_operations.sql#6                           INSERT INTO
+  [ok] 03_crud_operations.sql#7                           COMMIT 
+  [ok] 03_crud_operations.sql#8               3 row(s)
+  [ok] 03_crud_operations.sql#9              20 row(s)
+  [ok] 03_crud_operations.sql#10                          UPDATE orders
+  [ok] 03_crud_operations.sql#11                          UPDATE products
+  [ok] 03_crud_operations.sql#12                          BEGIN 
+  [ok] 03_crud_operations.sql#13                          UPDATE products
+  [ok] 03_crud_operations.sql#14                          ROLLBACK 
+  [ok] 03_crud_operations.sql#15                          BEGIN 
+  [ok] 03_crud_operations.sql#16                          DELETE FROM
+  [ok] 03_crud_operations.sql#17                          DELETE FROM
+  [ok] 03_crud_operations.sql#18                          COMMIT 
+  [ok] 03_crud_operations.sql#19                          BEGIN 
+  [ok] 03_crud_operations.sql#20                          DELETE FROM
+  [ok] 03_crud_operations.sql#21                          COMMIT 
+  [ok] 03_crud_operations.sql#22                          BEGIN 
+  [ok] 03_crud_operations.sql#23                          DELETE FROM
+  [ok] 03_crud_operations.sql#24                          COMMIT 
+  [ok] 03_crud_operations.sql#25                          UPDATE products
+  [ok] 03_crud_operations.sql#26                          UPDATE products
+  [ok] 03_crud_operations.sql#27                          UPDATE products
+  [ok] 03_crud_operations.sql#28              1 row(s)
+  [ok] 03_crud_operations.sql#29              1 row(s)
+  [ok] 03_crud_operations.sql#30              1 row(s)
+  [ok] 03_crud_operations.sql#31              1 row(s)
+  -- 03_crud_operations.sql finished in 1.04s
+
+=== 04_joins.sql  (8 statements) ===
+  [ok] 04_joins.sql#1                        20 row(s)
+  [ok] 04_joins.sql#2                        10 row(s)
+  [ok] 04_joins.sql#3                        40 row(s)
+  [ok] 04_joins.sql#4                         3 row(s)
+  [ok] 04_joins.sql#5                         3 row(s)
+  [ok] 04_joins.sql#6                        32 row(s)
+  [ok] 04_joins.sql#7                        15 row(s)
+  [ok] 04_joins.sql#8                        48 row(s)
+  -- 04_joins.sql finished in 0.04s
+
+=== 05_aggregate_analytics.sql  (13 statements) ===
+  [ok] 05_aggregate_analytics.sql#1           1 row(s)
+  [ok] 05_aggregate_analytics.sql#2          32 row(s)
+  [ok] 05_aggregate_analytics.sql#3           6 row(s)
+  [ok] 05_aggregate_analytics.sql#4          10 row(s)
+  [ok] 05_aggregate_analytics.sql#5           2 row(s)
+  [ok] 05_aggregate_analytics.sql#6          15 row(s)
+  [ok] 05_aggregate_analytics.sql#7          18 row(s)
+  [ok] 05_aggregate_analytics.sql#8           4 row(s)
+  [ok] 05_aggregate_analytics.sql#9           5 row(s)
+  [ok] 05_aggregate_analytics.sql#10          6 row(s)
+  [ok] 05_aggregate_analytics.sql#11          5 row(s)
+  [ok] 05_aggregate_analytics.sql#12          5 row(s)
+  [ok] 05_aggregate_analytics.sql#13         22 row(s)
+  -- 05_aggregate_analytics.sql finished in 0.07s
+
+=== 06_advanced_analytics.sql  (13 statements) ===
+  [ok] 06_advanced_analytics.sql#1           32 row(s)
+  [ok] 06_advanced_analytics.sql#2           32 row(s)
+  [ok] 06_advanced_analytics.sql#3           20 row(s)
+  [ok] 06_advanced_analytics.sql#4           18 row(s)
+  [ok] 06_advanced_analytics.sql#5           40 row(s)
+  [ok] 06_advanced_analytics.sql#6           20 row(s)
+  [ok] 06_advanced_analytics.sql#7            2 row(s)
+  [ok] 06_advanced_analytics.sql#8           32 row(s)
+  [ok] 06_advanced_analytics.sql#9          111 row(s)
+  [ok] 06_advanced_analytics.sql#10         107 row(s)
+  [ok] 06_advanced_analytics.sql#11           7 row(s)
+  [ok] 06_advanced_analytics.sql#12          10 row(s)
+  [ok] 06_advanced_analytics.sql#13          15 row(s)
+  -- 06_advanced_analytics.sql finished in 0.09s
+
+=== 07_views.sql  (12 statements) ===
+  [ok] 07_views.sql#1                           CREATE OR
+  [ok] 07_views.sql#2                           CREATE OR
+  [ok] 07_views.sql#3                           CREATE OR
+  [ok] 07_views.sql#4                           CREATE OR
+  [ok] 07_views.sql#5                           CREATE OR
+  [ok] 07_views.sql#6                           CREATE OR
+  [ok] 07_views.sql#7                        10 row(s)
+  [ok] 07_views.sql#8                        10 row(s)
+  [ok] 07_views.sql#9                        32 row(s)
+  [ok] 07_views.sql#10                       10 row(s)
+  [ok] 07_views.sql#11                       10 row(s)
+  [ok] 07_views.sql#12                       32 row(s)
+  -- 07_views.sql finished in 0.10s
+
+=== 08_indexes_optimization.sql  (31 statements) ===
+  [ok] 08_indexes_optimization.sql#1                           DROP INDEX
+  [ok] 08_indexes_optimization.sql#2                           DROP INDEX
+  [ok] 08_indexes_optimization.sql#3                           DROP INDEX
+  [ok] 08_indexes_optimization.sql#4                           DROP INDEX
+  [ok] 08_indexes_optimization.sql#5                           DROP INDEX
+  [ok] 08_indexes_optimization.sql#6                           DROP INDEX
+  [ok] 08_indexes_optimization.sql#7                           DROP INDEX
+  [ok] 08_indexes_optimization.sql#8                           DROP INDEX
+  [ok] 08_indexes_optimization.sql#9                           DROP INDEX
+  [ok] 08_indexes_optimization.sql#10                          CREATE INDEX
+  [ok] 08_indexes_optimization.sql#11                          CREATE INDEX
+  [ok] 08_indexes_optimization.sql#12                          CREATE INDEX
+  [ok] 08_indexes_optimization.sql#13                          CREATE INDEX
+  [ok] 08_indexes_optimization.sql#14                          CREATE INDEX
+  [ok] 08_indexes_optimization.sql#15                          CREATE INDEX
+  [ok] 08_indexes_optimization.sql#16                          CREATE INDEX
+  [ok] 08_indexes_optimization.sql#17                          CREATE INDEX
+  [ok] 08_indexes_optimization.sql#18                          CREATE INDEX
+  [ok] 08_indexes_optimization.sql#19                          ANALYZE 
+  [ok] 08_indexes_optimization.sql#20         1 row(s)
+  [ok] 08_indexes_optimization.sql#21         1 row(s)
+  [ok] 08_indexes_optimization.sql#22         1 row(s)
+  [ok] 08_indexes_optimization.sql#23        10 row(s)
+  [ok] 08_indexes_optimization.sql#24        10 row(s)
+  [ok] 08_indexes_optimization.sql#25         1 row(s)
+  [ok] 08_indexes_optimization.sql#26         1 row(s)
+  [ok] 08_indexes_optimization.sql#27        10 row(s)
+  [ok] 08_indexes_optimization.sql#28        10 row(s)
+  [ok] 08_indexes_optimization.sql#29         1 row(s)
+  [ok] 08_indexes_optimization.sql#30         1 row(s)
+  [ok] 08_indexes_optimization.sql#31         9 row(s)
+  -- 08_indexes_optimization.sql finished in 0.06s
+
+=== 09_business_reports.sql  (13 statements) ===
+  [ok] r01_executive_kpis                     1 row(s)
+  [ok] r02_monthly_trend                     32 row(s)
+  [ok] r03_category_scorecard                 6 row(s)
+  [ok] r04_top_products                      15 row(s)
+  [ok] r05_underperforming_stock              4 row(s)
+  [ok] r06_customer_segments                  4 row(s)
+  [ok] r07_top_customers                     20 row(s)
+  [ok] r08_city_performance                  18 row(s)
+  [ok] r09_channel_performance                4 row(s)
+  [ok] r10_payment_reconciliation            32 row(s)
+  [ok] r11_loss_analysis                      6 row(s)
+  [ok] r12_recent_90_days                     1 row(s)
+  [ok] r13_reorder_alert                     41 row(s)
+  -- 09_business_reports.sql finished in 0.19s

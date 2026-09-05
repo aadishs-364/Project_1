@@ -1,0 +1,5 @@
+channel,orders,customers,revenue,avg_order_value,gross_profit,gross_margin_pct,revenue_share_pct
+MOBILE_APP,475,98,3827592.81,8058.09,1654732.81,43.2,36.8
+WEB,338,88,3320883.36,9825.1,1329833.36,40.0,31.9
+STORE,188,71,1792362.2,9533.84,733732.2,40.9,17.2
+MARKETPLACE,164,65,1454105.09,8866.49,601495.09,41.4,14.0

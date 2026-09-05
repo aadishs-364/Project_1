@@ -1,0 +1,5 @@
+product_name,category,price,stock,is_active,units_sold,revenue,last_sold_on,capital_tied_up,flag
+PureAir Room Purifier,Home & Kitchen,14999.0,12,True,15.0,218272.95,2026-08-16,117600.0,LOW VELOCITY
+CopperLine Non-Stick Cookware Set,Home & Kitchen,4299.0,40,True,0.0,0.0,,100000.0,NEVER SOLD
+BrewCraft Electric Kettle 1.7L,Home & Kitchen,1499.0,40,True,0.0,0.0,,28800.0,NEVER SOLD
+Vertex Mechanical Keyboard,Electronics,5899.0,0,True,0.0,0.0,,0.0,NEVER SOLD

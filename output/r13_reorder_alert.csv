@@ -1,0 +1,42 @@
+product_name,category,stock,units_last_90d,units_per_week,weeks_of_cover,action
+Aurora 24in FHD Monitor,Electronics,0,4.0,0.31,0.0,STOCKOUT - reorder now
+Aurora 27in 4K Monitor,Electronics,0,5.0,0.38,0.0,STOCKOUT - reorder now
+Larkspur Leather Wallet,Fashion,0,10.0,0.77,0.0,STOCKOUT - reorder now
+Meadow Microfibre Pillow (2 pack),Home & Kitchen,0,14.0,1.08,0.0,STOCKOUT - reorder now
+RallyPro Badminton Racket,Sports & Fitness,0,4.0,0.31,0.0,STOCKOUT - reorder now
+Vertex Wireless Mouse,Electronics,0,17.0,1.31,0.0,STOCKOUT - reorder now
+IronCore Resistance Band Set,Sports & Fitness,2,11.0,0.85,2.4,REORDER
+UrbanKnit Oversized Hoodie,Fashion,5,11.0,0.85,5.9,MONITOR
+Nimbus Wireless Earbuds Lite,Electronics,18,17.0,1.31,13.8,SUFFICIENT
+SilkSmooth Beard Trimmer,Beauty & Personal Care,12,10.0,0.77,15.6,SUFFICIENT
+Inkwell Gel Pen Pack (10),Books & Stationery,25,16.0,1.23,20.3,SUFFICIENT
+Orbit Soundbar 120W,Electronics,5,3.0,0.23,21.7,SUFFICIENT
+UrbanKnit Cotton T-Shirt,Fashion,25,14.0,1.08,23.2,SUFFICIENT
+DeskMate Organiser Tray,Books & Stationery,12,5.0,0.38,31.2,SUFFICIENT
+GlowLab Vitamin C Serum,Beauty & Personal Care,25,9.0,0.69,36.1,SUFFICIENT
+Helios 65W GaN Charger,Electronics,25,9.0,0.69,36.1,SUFFICIENT
+HydroFlask Steel Bottle 1L,Sports & Fitness,60,18.0,1.38,43.3,SUFFICIENT
+IronCore Adjustable Dumbbell 20kg,Sports & Fitness,25,7.0,0.54,46.4,SUFFICIENT
+FlexMat Foam Roller,Sports & Fitness,12,3.0,0.23,52.0,SUFFICIENT
+Zenith Fitness Band 2,Electronics,25,6.0,0.46,54.2,SUFFICIENT
+Meadow Cotton Bedsheet Set,Home & Kitchen,85,15.0,1.15,73.7,SUFFICIENT
+Inkwell Hardbound Notebook,Books & Stationery,120,21.0,1.62,74.3,SUFFICIENT
+PureAir Room Purifier,Home & Kitchen,12,2.0,0.15,78.0,SUFFICIENT
+BrewCraft Coffee Maker,Home & Kitchen,25,4.0,0.31,81.3,SUFFICIENT
+Helios 20000mAh Power Bank,Electronics,40,6.0,0.46,86.7,SUFFICIENT
+Nimbus Wireless Earbuds Pro,Electronics,60,9.0,0.69,86.7,SUFFICIENT
+GlowLab Daily Sunscreen SPF50,Beauty & Personal Care,85,11.0,0.85,100.5,SUFFICIENT
+Trailhead Running Shoes,Fashion,85,9.0,0.69,122.8,SUFFICIENT
+Zenith Smart Watch S3,Electronics,85,9.0,0.69,122.8,SUFFICIENT
+StoreWell Vacuum Container Set,Home & Kitchen,120,11.0,0.85,141.8,SUFFICIENT
+SilkSmooth Hair Dryer,Beauty & Personal Care,12,1.0,0.08,156.0,SUFFICIENT
+Trailhead Trekking Backpack 40L,Fashion,120,7.0,0.54,222.9,SUFFICIENT
+FlexMat Yoga Mat 6mm,Sports & Fitness,85,4.0,0.31,276.3,SUFFICIENT
+SunGuard Polarised Sunglasses,Fashion,85,4.0,0.31,276.3,SUFFICIENT
+Denim Co. Slim Fit Jeans,Fashion,150,6.0,0.46,325.0,SUFFICIENT
+CopperLine Pressure Cooker 5L,Home & Kitchen,150,3.0,0.23,650.0,SUFFICIENT
+Practical SQL for Analysts,Books & Stationery,150,2.0,0.15,975.0,SUFFICIENT
+Orbit Bluetooth Speaker,Electronics,240,3.0,0.23,1040.0,SUFFICIENT
+BrewCraft Electric Kettle 1.7L,Home & Kitchen,40,0.0,0.0,,NO RECENT DEMAND
+CopperLine Non-Stick Cookware Set,Home & Kitchen,40,0.0,0.0,,NO RECENT DEMAND
+Vertex Mechanical Keyboard,Electronics,0,0.0,0.0,,NO RECENT DEMAND

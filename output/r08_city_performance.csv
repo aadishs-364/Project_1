@@ -1,0 +1,19 @@
+state,city,customers,orders,revenue,avg_order_value,revenue_per_customer
+Rajasthan,Jaipur,12,104.0,1168982.34,11240.21,97415.2
+Odisha,Bhubaneswar,7,89.0,923710.56,10378.77,131958.65
+Kerala,Kochi,7,71.0,860096.76,12114.04,122870.97
+Uttar Pradesh,Lucknow,6,88.0,826115.31,9387.67,137685.89
+Chandigarh,Chandigarh,7,98.0,797096.88,8133.64,113870.98
+West Bengal,Kolkata,5,80.0,663075.2,8288.44,132615.04
+Telangana,Hyderabad,9,77.0,647894.47,8414.21,71988.27
+Karnataka,Bengaluru,8,70.0,642557.52,9179.39,80319.69
+Delhi,Delhi,7,76.0,580460.28,7637.64,82922.9
+Maharashtra,Mumbai,5,68.0,518688.52,7627.77,103737.7
+Haryana,Gurugram,6,49.0,482507.68,9847.1,80417.95
+Tamil Nadu,Chennai,9,66.0,477947.07,7241.62,53105.23
+Gujarat,Surat,5,50.0,450780.81,9015.62,90156.16
+Tamil Nadu,Coimbatore,6,67.0,442816.02,6609.19,73802.67
+Uttar Pradesh,Noida,8,45.0,408291.24,9073.14,51036.41
+Gujarat,Ahmedabad,5,34.0,308276.93,9066.97,61655.39
+Maharashtra,Pune,2,20.0,123647.86,6182.39,61823.93
+Madhya Pradesh,Indore,6,13.0,71998.01,5538.31,11999.67

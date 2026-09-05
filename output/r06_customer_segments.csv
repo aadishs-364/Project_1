@@ -1,0 +1,5 @@
+buyer_type,customers,pct_of_customers,orders,revenue,revenue_share_pct,avg_lifetime_value,avg_days_since_last_order
+REPEAT,71,59.2,1076.0,9503381.89,91.4,133850.45,86.0
+OCCASIONAL,26,21.7,79.0,810609.26,7.8,31177.28,208.0
+ONE_TIME,10,8.3,10.0,80952.31,0.8,8095.23,332.0
+NEVER_PURCHASED,13,10.8,0.0,0.0,0.0,0.0,

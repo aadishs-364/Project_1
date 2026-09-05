@@ -1,0 +1,7 @@
+category,cancelled_orders,returned_orders,cancelled_value,returned_value,total_lost_value,loss_rate_pct
+Electronics,39,61,504086.41,562908.26,1066994.67,14.9
+Fashion,26,46,95173.87,161279.74,256453.61,12.9
+Home & Kitchen,17,25,121983.3,113175.06,235158.36,16.0
+Sports & Fitness,23,22,58893.62,56890.28,115783.9,11.1
+Beauty & Personal Care,12,17,24707.4,44744.85,69452.25,11.2
+Books & Stationery,25,22,24613.38,14718.63,39332.01,12.2
